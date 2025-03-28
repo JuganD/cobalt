@@ -34,9 +34,9 @@ const defaultSettings: CobaltSettings = {
     },
     processing: {
         customInstanceURL: "",
-        customApiKey: "https://google.com",
+        customApiKey: "",
         enableCustomInstances: false,
-        enableCustomApiKey: true,
+        enableCustomApiKey: false,
         seenCustomWarning: false,
     }
 }

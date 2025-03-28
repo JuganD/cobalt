@@ -4,6 +4,4 @@ import { derived, writable } from "svelte/store";
 
 export const turnstileSolved = true;
 export const turnstileCreated = true;
-
 export const turnstileEnabled = true;
-)
